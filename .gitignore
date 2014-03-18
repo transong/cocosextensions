@@ -1,0 +1,10 @@
+/proj.win32/
+!/proj.win32/cpp-empty-test.vcxproj
+!/proj.win32/main.cpp
+!/proj.win32/main.h
+/proj.android/
+/proj.ios/
+/proj.linux/
+/proj.mac/
+/CMakeLists.txt
+
