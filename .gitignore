@@ -1,7 +1,6 @@
-/proj.win32/
-!/proj.win32/cpp-empty-test.vcxproj
-!/proj.win32/main.cpp
-!/proj.win32/main.h
+/proj.win32/Debug.win32/
+/proj.win32/cpp-empty-test.vcxproj.filters
+/proj.win32/cpp-empty-test.vcxproj.user
 /proj.android/
 /proj.ios/
 /proj.linux/
